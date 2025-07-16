@@ -1,20 +1,20 @@
 import os
 
 class Config(object):
-    BOT_TOKEN = "7982396596:AAGZJZj1Gqc6XV46-9nXl-af1mhwAnLV6PU"
-    API_ID = 28094744
-    API_HASH = "a75af4285edc7747c57bb19147ca0b9b"
-    ADMIN = '5680454765'.split(',')
+    BOT_TOKEN = "8009433510:AAHyXrA60VrfCeJ47KKAxbNWWvQi8BOtxVQ"
+    API_ID = 27104631
+    API_HASH = "47423a0c177b3b281b6748c4b411579e"
+    ADMIN = '7418011150'.split(',')
     ADMIN_ID = [int(id) for id in ADMIN]
-    DB_URL = "mongodb+srv://tmglcd:kI1UijMr2jJXyOXY@cluster0.unjzi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-    DB_NAME = "WARRIOR_EXTRACTOR"
-    TXT_LOG = -10023125
-    AUTH_LOG = -10023802
-    HIT_LOG = -100247596
-    DRM_DUMP = -10024562
-    CHANNEL = -10022752
-    CH_URL = "https://t.me/+vX1JFN-Mzhl"
-    OWNER = "https://t.me/mrcraacker"
-    THUMB_URL = "https://vault.pictures/media/images/b9/ad/12/b9ad123d95cd49465fcb954d.jpg" #Replace by with your Thumb URL
+    DB_URL = "mongodb+srv://eagleanonymous43211:FL5RavwUl7osBQeo@cluster0.c8djzkd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    DB_NAME = "Cluster0"
+    TXT_LOG = -1002881439160
+    AUTH_LOG = -1002881439160
+    HIT_LOG = -1002881439160
+    DRM_DUMP = -10028814391602
+    CHANNEL = -1002647218657
+    CH_URL = "https://t.me/nsksjjdd"
+    OWNER = "https://t.me/GoldenEagleContactbot"
+    THUMB_URL = "https://i.ibb.co/zTPJFct8/photo-2025-04-25-12-55-01-7497233558289776672.jpg" #Replace by with your Thumb URL
     HOST = "https://drm-api-five.vercel.app"
 
